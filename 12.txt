@@ -27,20 +27,6 @@ HOT星顏,p2p://fccsovh.pvbox.live:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 松視1台,p2p://fccsovh.pvbox.live:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
 松視2台,p2p://fccsovh.pvbox.live:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
 老外,http://cdn.adultiptv.net/teen.m3u8
-日本無碼臺,http://204.45.185.166:25678/i/ghjnvq5o/827yz06w/index.m3u8
-西洋無碼臺,http://204.45.185.166:25678/i/ghjnvq5o/1583jl82/index.m3u8
-好色客西洋電影臺,http://204.45.185.166:25678/i/ghjnvq5o/oo9gw5hz/index.m3u8
-playTV,http://204.45.185.166:25678/i/ghjnvq5o/z5zsa5f5/index.m3u8
-裸色,http://204.45.185.166:25678/i/ghjnvq5o/3v529tk6/index.m3u8
-一本道,http://204.45.185.166:25678/i/ghjnvq5o/lv6d60g9/index.m3u8
-慾色動漫,http://204.45.185.166:25678/i/ghjnvq5o/9l5py3k2/index.m3u8
-驚艷臺,http://204.45.185.166:25678/i/ghjnvq5o/tj5knp44/index.m3u8
-香蕉臺,http://204.45.185.166:25678/i/ghjnvq5o/t00c98rg/index.m3u8
-松视4,http://204.45.185.166:25678/i/ghjnvq5o/984fa1vb/index.m3u8
-高清无码1,http://204.45.185.166:25678/i/ghjnvq5o/846a1ghm/index.m3u8
-高清无码2,http://204.45.185.166:25678/i/ghjnvq5o/1bf4a301/index.m3u8
-高清无码3,http://204.45.185.166:25678/i/ghjnvq5o/ahun18hg/index.m3u8
-高清无码4,http://204.45.185.166:25678/i/ghjnvq5o/84a15gbc/index.m3u8
 Cuckold Channel,http://cdn.adultiptv.net/cuckold.m3u8
 Hardcore Channel,http://cdn.adultiptv.net/hardcore.m3u8
 Russian Channel,http://cdn.adultiptv.net/russian.m3u8
