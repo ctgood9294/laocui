@@ -1,5 +1,5 @@
 1,#genre#
-驚艷台, P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+ 驚艷台, P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
  彩虹電影, P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
  彩虹e台, P2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
  彩虹k台, P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
@@ -33,7 +33,6 @@
  松視+深夜劇場頻道, http://sywly.xyz/19hd.php?id=5
  松視+超強企劃頻道, http://sywly.xyz/19hd.php?id=6
  HOT+西洋黑映畫頻道, http://sywly.xyz/19hd.php?id=7
- 一本道國際放送頻道,
  IBIZAD槽素人頻道, http://sywly.xyz/19hd.php?id=9
  IBIZA日本無碼頻道, http://sywly.xyz/19hd.php?id=10
  加勒比高清無碼, p9p://192.95.32.107:9906/5a00e088000c87354f15a28579f75a51&link=
