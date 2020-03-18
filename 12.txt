@@ -1,4 +1,54 @@
-1,#genre#
+01娱乐频道,#genre#
+松视1台,p2p://190.2.146.92:18912/5c18f8fb00064883c0741bdf109f114a.ts
+松视2台,p2p://190.2.146.92:18912/5c18f8f7000d865dc0740e1426765941.ts
+松视3台,p2p://190.2.146.92:18912/5c18f9020004cea3c07436da29307240.ts
+HAPPY,p2p://190.2.146.92:18912/5c18f8fe000ca53ec074293d6d01287b.ts
+惊艳台,p2p://190.2.146.92:18912/5c18f9100006a3e2c0746e0708a009f7.ts
+彩虹e台,p2p://190.2.146.92:18912/5c18f8ef000d41c9c073eec574332890.ts
+彩虹电影,p2p://190.2.146.92:18912/5c18f8eb000ca180c073df055bc26b76.ts
+彩虹k台,p2p://190.2.146.92:18912/5c18f8f300074bdfc073fcde6e553705.ts
+HOT星颜,p2p://190.2.146.92:18912/5c18f8e80001d046c073d07f7ee742c9.ts
+香蕉台,p2p://190.2.146.92:18912/5c18f9090004f8a0c07452412e4e369f.ts
+潘多拉粉红,p2p://190.2.146.92:18912/5c18f90c000e8229c074606a15084f35.ts
+潘多拉完美,p2p://190.2.146.92:18912/5c18f905000c08fbc07444661e2e685e.ts
+高清無碼2,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
+高清無碼5,p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
+高清無碼3,p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
+高清無碼4,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
+高清無碼6,p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
+高清無碼7,p8p://0198.02686.cc:16871/5d25b7e700043adb0a2fc9103d0f3e9d.ts
+高清無碼8,p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
+高清無碼9,p8p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
+高清無碼10,p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
+高清無碼11,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+红粉1台(高清),p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+红粉2台(高清),p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
+拉风台(高清),p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
+潘多拉台(高清),p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
+K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
+青春乐园台(高清),p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
+樱花台(高清),p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
+CR1,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
+CR2,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+CR3,p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
+茄子,https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
+西红柿,https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
+俄罗斯菊花,http://46.29.165.95:8081/stream/Runight/chunks.m3u8?
+花花公子,http://46.32.68.167/s/live/707/86.169.51.136/0/0.m3u8
+HUSTLER,http://46.32.68.167/s/live/705/86.169.51.136/0/0.m3u8
+艺术,http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
+欧美1,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+欧美2,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+欧美3,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+欧美4,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+欧美5,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+欧美6,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+欧美7,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+欧美9,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+欧美9,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+欧美10,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+欧美11,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+02,#genre#
  驚艷台, P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
  彩虹電影, P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
  彩虹e台, P2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
@@ -65,7 +115,7 @@
  VIKI, http://122.38.74.172:9981/stream/channelid/798964177
  Honey, http://122.38.74.172:9981/stream/channelid/1463854277
  Desike, http://122.38.74.172:9981/stream/channelid/816085039
-18xxx,#genre#
+03,#genre#
 PLAYBOY TV (NA),http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/300
 HUSTLER HD,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/302
 X ART,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/10658
@@ -95,7 +145,7 @@ PENTHOUSE,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/711
 7 HD XXX,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6687
 8 HD XXX,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6686
 
-2,#genre#
+04,#genre#
 驚艷台HD,p2p://190.2.146.92:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 驚艷台HD,p2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 彩虹電影,p2p://190.2.146.92:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
@@ -233,7 +283,8 @@ Y乱小◎♀到爆イ大满足,https://qqc1107.phpdaniu.com/japan/20191013/ijyp
 超Y荡美少妇的激情爱爱,https://qqc1107.phpdaniu.com/japan/20191013/NQ1YjAsl/index.m3u8
 美◎欣赏【叶山瞳】,https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
 美◎欣赏【麻生希】,https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
-直播,#genre#
+
+05,#genre#
 HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 驚艷台HD,mitv://190.2.146.92:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 彩虹電影,mitv://190.2.146.92:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
@@ -393,7 +444,7 @@ Redlight HD,http://mel13.ottclub.ru/iptv/XT8QRLUKBDVF32/242/index.m3u8
 Private TV,http://mel13.ottclub.ru/iptv/XT8QRLUKBDVF32/243/index.m3u8
 Hustler HD Europe,http://mel13.ottclub.ru/iptv/XT8QRLUKBDVF32/244/index.m3u8
 Dorcel TV HD,http://mel13.ottclub.ru/iptv/XT8QRLUKBDVF32/245/index.m3u8
-影视,#genre#
+06,#genre#
 爱花池也清纯出道,https://f1.pddbao.com/20181012/qtCfGU2I/2000kb/hls/index.m3u8
 波多野结衣熟练的技术,https://f3.pddbao.com/201907/08/CnnjGycF/2200kb/hls/index.m3u8
 内衣宝贝小穴玩的湿漉漉,https://f2.pddbao.com/201902/24/vOT6FXDW/1200kb/hls/index.m3u8
@@ -756,7 +807,7 @@ Z真白愛梨,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/3/4/346e9cf4272
 鑑賞會素人娘,http://videocdn.quweikm.com:8091/20180730/SHE-001c/index.m3u8
 隣人狙人妻 望月加奈,http://videocdn.quweikm.com:8091/20180730/SHKD-521c/index.m3u8
 雰囲気親子,http://videocdn.quweikm.com:8091/20180730/SHE-153c/index.m3u8
-影视002,#genre#
+07,#genre#
 A Remy le va de todo,https://cdn2.servitubes.com/videos/e/9/5/c/2/e95c2c53b00f3a6f2e6a5765bbcda0b0b9c1616b.mp4
 A3BIKINI TV,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 ABP-298,http://videocdnbaidu.rhsj520.com/rbny/20180807/cgcly/ABP-298/index.m3u8
