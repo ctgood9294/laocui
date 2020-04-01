@@ -815,36 +815,6 @@ HUSTLER,http://46.32.68.167/s/live/705/86.169.51.136/0/0.m3u8
  VIKI, http://122.38.74.172:9981/stream/channelid/798964177
  Honey, http://122.38.74.172:9981/stream/channelid/1463854277
  Desike, http://122.38.74.172:9981/stream/channelid/816085039
-03,#genre#
-PLAYBOY TV (NA),http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/300
-HUSTLER HD,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/302
-X ART,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/10658
-NAUGHTY AMERICA,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/10657
-BRAZZERS,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/10656
-BRAZZERS LIVE,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/10660
-TEN - NEW,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/9165
-XTSY - (NEW),http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/9164
-TINY4K,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/8889
-EVIL ANGEL 1,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/10659
-BANG BROS,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/8783
-IPZ,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6610
-JAV 1 UNCENSORED,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6612
-JAV 2 UNCENSORED,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6613
-JAV 3 UNCENSORED,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6614
-TOKYO HOT,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6572
-WANZ,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6611
-TUSHY,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6615
-LEGAL PORNO,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6573
-PENTHOUSE,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/71118
-1 HD XXX,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6697
-2 HD XXX,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6696
-3 HD XXX,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6695
-4 HD XXX,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6694
-6 HD XXX,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6692
-5 HD XXX,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6693
-7 HD XXX,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6687
-8 HD XXX,http://66.northerniptv.ca:8000/ad66F7Ugid02n8mgp/d97cF9UfdXzbpVoxu/6686
-
 04,#genre#
 驚艷台HD,p2p://190.2.146.92:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 驚艷台HD,p2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
