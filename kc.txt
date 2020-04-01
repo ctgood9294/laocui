@@ -1,3 +1,21 @@
+$c_startvip尊享06$c_end
+Jasmin TV,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+Nuart TV,http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
+AST TV,http://www.ast.tv/stream/1/cellular.m3u8
+AST TV HD,https://www.ast.tv/stream/1/ultra.m3u8
+AST TV 2,http://www.ast.tv/stream/2/master.m3u8
+AST TV 2 HD,https://www.ast.tv/stream/2/ultra.m3u8
+Babestation Xtreme,http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
+Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+Blue Hustler,http://178.124.183.14:80/hls/CH_BLUEHUSTLER/variant.m3u8
+Brunette,http://cdn.adultiptv.net/brunette.m3u8
+Compilation,http://cdn.adultiptv.net/compilation.m3u8
+Cuckold HD,http://live.redtraffic.xyz/cuckold.m3u8
+Dorcel,http://tv.fast-iptv.info:12974/live/l0Jvklidcd/PZCpLDhfyF/340.ts
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+Fetish HD,http://live.redtraffic.xyz/fetish.m3u8
+Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+Hardcore HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
 $c_startvip尊享05$c_end
 HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 惊艳台HD,p2p://190.2.146.112:18912/5c18f9100006a3e2c0746e0708a009f7.ts
