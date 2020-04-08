@@ -1,3 +1,46 @@
+20200408,#genre#
+PASSIONXXX ,http://tv.iptv5latino.cl:8000/live/william/123456/3805.ts
+PENTHOUSE HD 1,http://tv.iptv5latino.cl:8000/live/william/123456/3788.ts
+PENTHOUSE HD  ,http://tv.iptv5latino.cl:8000/live/william/123456/3787.ts
+PINK O TV,http://tv.iptv5latino.cl:8000/live/william/123456/3807.ts
+PLAYBOY TV ,http://tv.iptv5latino.cl:8000/live/william/123456/3798.ts
+PRIVATE TV,http://tv.iptv5latino.cl:8000/live/william/123456/3806.ts
+SEXTOSENSO ,http://tv.iptv5latino.cl:8000/live/william/123456/3809.ts
+VIVID RED,http://tv.iptv5latino.cl:8000/live/william/123456/3796.ts
+Hardcore HD ,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
+Interracial ,https://ch.iptvmate.net/e14f9ff51bc385fc890e9da51df17296.m3u8
+Interracial HD ,http://live.redtraffic.xyz/interracial.m3u8
+Latina ,http://cdn.adultiptv.net/latina.m3u8
+Latina HD ,http://live.redtraffic.xyz/latina.m3u8
+Lesbian ,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/lesbian.m3u8
+Lesbian HD ,http://live.redtraffic.xyz/lesbian.m3u8
+Live Cams ,http://cdn.adultiptv.net/livecams.m3u8
+Milf ,https://ch.iptvmate.net/bbb4f0f3223a8ca2c0cf8f57096c1b24.m3u8
+Milf HD ,http://live.redtraffic.xyz/milf.m3u8
+Penthouse ,http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+Playboy TV ,http://178.217.72.66:80/225.201.2.108/tracks-v1a1/mono.m3u8
+Pornstar ,https://ch.iptvmate.net/7e9b8590de2930bd490dc661f1408e68.m3u8
+Pornstar HD ,http://live.redtraffic.xyz/pornstar.m3u8
+POV ,http://cdn.adultiptv.net/pov.m3u8
+POV HD ,http://live.redtraffic.xyz/pov.m3u8
+Rough ,http://cdn.adultiptv.net/rough.m3u8
+Russian ,https://ch.iptvmate.net/13fdb0c3c52d9236f2dbec874589bb8a.m3u8
+Russian HD ,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/russian.m3u8
+SCT ,http://188.35.9.9:21141/udp/202w
+Shemale Tube TV 2 ,http://www.ast.tv/stream/2/master.m3u8
+Super One ,http://188.35.9.5:10007/stolen/246r/parasite.install
+Teen ,http://cdn.adultiptv.net/teen.m3u8
+Teen HD ,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/teen.m3u8
+Threesome ,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/threesome.m3u8
+Threesome HD ,http://live.redtraffic.xyz/threesome.m3u8
+XXL ,http://live.redtraffic.xyz/teen.m3u8
+XXX ,http://s1.hdporus.com/content/vod/s2247/480/index.m3u8
+Zest TV ,http://188.35.9.9:21131/udp/137a
+1,http://188.35.9.12:21101/udp/127h
+2,http://188.35.9.12:21121/udp/129i
+3,http://188.35.9.12:21131/udp/142d
+4,http://188.35.9.12:21101/udp/118v
+
 20200321,#genre#
 Website : www.hijaben.xyz,https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
 Website : www.hijaben.xyz,https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
